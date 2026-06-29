@@ -1,1 +1,3 @@
 p7885/pac/ImageFiles/boot.img filter=lfs diff=lfs merge=lfs -text
+boot-updater.img filter=lfs diff=lfs merge=lfs -text
+vendor_boot_updater.img filter=lfs diff=lfs merge=lfs -text
